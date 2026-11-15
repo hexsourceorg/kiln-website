@@ -8,4 +8,4 @@ The website does not host an ISO. It links to the project's build instructions b
 
 Keep the `CNAME` file in the site repository to retain the custom domain.
 
-Maintained by **[Hexsource](https://hexsource.mandrusia.tech/)**. Kiln retains its independent logo and visual identity.
+Maintained by **[Achilles](https://achilles.mandrusia.tech/)**. Kiln retains its independent logo and visual identity.
